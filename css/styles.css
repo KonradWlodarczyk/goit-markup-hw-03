@@ -179,6 +179,9 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+.about {
+  padding-top: 0;
+}
 /* ----NASZ ZESPÓŁ---- */
 .us {
   background-color: #f5f4fa;
